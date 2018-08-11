@@ -1,2 +1,1 @@
-# devopsbuddy
-Startup-Ready web skeleton
+mvn clean install
